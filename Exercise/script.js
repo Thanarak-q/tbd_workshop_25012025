@@ -8,6 +8,9 @@ function say_hello() {
     // CODE HERE!!!
     console.log("เฮาชื่อคิว")
     
+    
+    console.log("Hello, A!. It's me, B!");
+    
 }
 
 // Don’t change the code under this comment!
