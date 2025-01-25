@@ -8,6 +8,7 @@ def main():
     num2 = int(input("Enter your number 2:"))
     
     # change this line to call method
+    add(num1, num2)
 
     # Member A call method add() at line: 8
     # Member B call method diff() at line: 8
