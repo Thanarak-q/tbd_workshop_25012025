@@ -7,9 +7,7 @@
 function say_hello() {
     // CODE HERE!!!
     console.log("เฮาชื่อคิว")
-    
-    
-    console.log("Hello, A!. It's me, B!");
+    console.log("Hello, A!. It's me, cool man!!");
     
 }
 
